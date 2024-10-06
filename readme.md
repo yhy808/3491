@@ -1,5 +1,5 @@
 NEURON mod files for the K-DR current from the paper:
-Skaliora, et al., Eur.J.Neurosci. 7:1558-1568 (1995).
+Skaliora, et al., *Eur.J.Neurosci*. 7:1558-1568 (1995).
 
 - Running the kinetics.hoc simulation file will show 
 the activation and inactivation steady-states, the time constants, 
@@ -32,3 +32,7 @@ authors.
 
 Questions on how to use this model with NEURON
 should be directed to michele@pa.ibf.cnr.it
+
+Changelog:
+----------
+2024-10: Converted readme to markdown
